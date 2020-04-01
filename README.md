@@ -1,5 +1,5 @@
 # Titanic Disaster 
-## Top 15% in kaggle 
+## Top 11% in kaggle 
 
 [My Profile in Kaggle](https://www.kaggle.com/firuzjuraev)
 <br/>
